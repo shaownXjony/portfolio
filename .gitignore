@@ -32,21 +32,4 @@ dist-ssr
 DEPLOYMENT_CHECKLIST.md
 EMAILJS_SETUP.md
 
-# # Personal photos and images
-# public/assets/images/profile-photo.png
-# public/assets/images/*.png
-# public/assets/images/*.jpg
-# public/assets/images/*.jpeg
-
-# # CV and resume files (personal)
-# public/cv/
-# cv/
-# **/resume.*
-# **/*resume*
-# **/CV.*
-# **/*CV*
-
-# # Personal data files (if you want to exclude content with personal info)
-# # Uncomment the line below if you want to exclude content.ts
-# #src/data/content.ts
 
